@@ -1,0 +1,8 @@
+.box_table {
+  width: 80%;
+  display: flex;
+  height: 60vh;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}

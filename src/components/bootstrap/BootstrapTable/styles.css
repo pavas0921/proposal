@@ -1,0 +1,46 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.div-table-main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.div-title {
+  margin-top: 50px;
+}
+
+.div-navbar {
+  width: 100%;
+}
+
+.div-table {
+  width: 70%;
+  margin-top: 40px;
+  box-shadow: 0 3px 20px 0 #deeff3;
+}
+
+.button-table {
+  border: none;
+  background-color: transparent;
+}
+
+.div-span {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.div-buttons {
+  width: 70%;
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
