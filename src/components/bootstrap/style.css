@@ -59,13 +59,41 @@
 
 .div-form {
   background-color: white;
-  width: 40%;
+  width: 30%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   border-radius: 10px;
-  box-shadow: 0 3px 20px 0 #deeff3;
+  box-shadow: 0 3px 20px 0 #8a8d8d;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.image {
+  width: 100%;
+}
+
+.div_img {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.div_input {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.div_button {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
 }

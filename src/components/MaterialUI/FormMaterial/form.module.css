@@ -1,0 +1,60 @@
+.box_main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f9f9;
+}
+
+.card_form {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 50px;
+}
+
+.box_title {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px solid;
+  background-color: #3f51b5;
+  box-shadow: 0px 0px 5px 0px #3a3a3a;
+  padding: 15px;
+  color: white;
+}
+
+.antecedents_description {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.descripcion_antecedentes {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+.antecedentes_titulo {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  background-color: red;
+}
+
+.antecedents_description {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,10 @@
+.div_table {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-shadow {
+  box-shadow: 0 3px 20px 0 #8a8d8d;
+}

@@ -1,0 +1,27 @@
+.div_ppal {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.div_button_ppal {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.div_buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.div_loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
